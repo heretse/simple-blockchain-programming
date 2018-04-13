@@ -7,12 +7,12 @@ A simple blockchain program to demo how the Bitcoin Blockchain works.
 You can execute many nodes to simulate a P2P blcokchain network.
 
 ```sh
-node app.js <specificied-port-default-is-3000>
+node app.js <the-specificied-port-default-is-3000>
 ```
 
 ## Usage with Node.js
 
-### Prerequisite
+### Install Prerequisites
 ```sh
 npm install node-fetch --save
 ```
